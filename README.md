@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <h1 align="center">Hi 👋, I'm Prashanth Kumar</h1>
 <h3 align="center">A Backend developer at Telecom Fulfilment Service</h3>
