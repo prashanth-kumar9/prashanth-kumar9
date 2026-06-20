@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://1drv.ms/b/c/59e92f62cec10dd6/IQA3HVMFr_4bQ4fQtw3ZudIPAfl6sR5CzM4NcdE0uRw7Dvo?e=rzqayL](https://1drv.ms/b/c/59e92f62cec10dd6/IQA3HVMFr_4bQ4fQtw3ZudIPAfl6sR5CzM4NcdE0uRw7Dvo?e=rzqayL)
 
-- ⚡ Fun fact **Music • Games • Anime • Code • Art**
+- ⚡ **Music • Games • Anime • Code • Art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
