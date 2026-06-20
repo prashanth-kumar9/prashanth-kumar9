@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashanth-kumar9" alt="prashanth-kumar9" /></a> </p>
 
-- 🔭 I’m currently working on **building a CI/CD pipeline**
+- 🔭 I’m currently working on **building a CI/CD pipeline with SpringBoot Microservice**
 
 - 🌱 I’m currently learning **RAG, AGENTIC AI**
 
-- 💬 Ask me about **SYSTEM DESIGN**
+- 💬 Ask me about **Microservices & Microservice Architecture**
 
 - 📫 How to reach me **prashanthkornu9@gmail.com**
 
